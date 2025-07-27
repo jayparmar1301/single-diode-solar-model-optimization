@@ -1,0 +1,1772 @@
+[
+    {
+        "best_solution": "[  1.97360542   0.67170064 144.60763599]",
+        "best_fitness": 4.9834821808997246e-11,
+        "convergence_history": [
+            {
+                "iteration": 0,
+                "best_fitness": 1.9090339136298964e-06,
+                "avg_fitness": 0.009827337313256601,
+                "nfes": 50
+            },
+            {
+                "iteration": 1,
+                "best_fitness": 1.9090339136298964e-06,
+                "avg_fitness": 0.003356923634680556,
+                "nfes": 100
+            },
+            {
+                "iteration": 2,
+                "best_fitness": 1.9090339136298964e-06,
+                "avg_fitness": 0.0020297780860197984,
+                "nfes": 150
+            },
+            {
+                "iteration": 3,
+                "best_fitness": 1.9090339136298964e-06,
+                "avg_fitness": 0.0015633269642979857,
+                "nfes": 200
+            },
+            {
+                "iteration": 4,
+                "best_fitness": 3.4719449039499524e-08,
+                "avg_fitness": 0.0005897288248142558,
+                "nfes": 250
+            },
+            {
+                "iteration": 5,
+                "best_fitness": 3.4719449039499524e-08,
+                "avg_fitness": 0.0004312762692048378,
+                "nfes": 300
+            },
+            {
+                "iteration": 6,
+                "best_fitness": 4.9834821808997246e-11,
+                "avg_fitness": 0.00026248810622352565,
+                "nfes": 350
+            }
+        ],
+        "function_evaluations": 350,
+        "parameters": {
+            "a": 1.9736054180447997,
+            "Rs": 0.6717006388588725,
+            "Rp": 144.60763598985653
+        },
+        "execution_time": 0.012971639633178711,
+        "module_type": "ST40",
+        "Is": 7.244905819269313e-06,
+        "Iph": 2.6924607438656665,
+        "run_id": 1
+    },
+    {
+        "best_solution": "[  1.97360542   0.67170064 144.60763599]",
+        "best_fitness": 4.9834821808997246e-11,
+        "convergence_history": [
+            {
+                "iteration": 0,
+                "best_fitness": 1.9090339136298964e-06,
+                "avg_fitness": 0.009827337313256601,
+                "nfes": 50
+            },
+            {
+                "iteration": 1,
+                "best_fitness": 1.9090339136298964e-06,
+                "avg_fitness": 0.003356923634680556,
+                "nfes": 100
+            },
+            {
+                "iteration": 2,
+                "best_fitness": 1.9090339136298964e-06,
+                "avg_fitness": 0.0020297780860197984,
+                "nfes": 150
+            },
+            {
+                "iteration": 3,
+                "best_fitness": 1.9090339136298964e-06,
+                "avg_fitness": 0.0015633269642979857,
+                "nfes": 200
+            },
+            {
+                "iteration": 4,
+                "best_fitness": 3.4719449039499524e-08,
+                "avg_fitness": 0.0005897288248142558,
+                "nfes": 250
+            },
+            {
+                "iteration": 5,
+                "best_fitness": 3.4719449039499524e-08,
+                "avg_fitness": 0.0004312762692048378,
+                "nfes": 300
+            },
+            {
+                "iteration": 6,
+                "best_fitness": 4.9834821808997246e-11,
+                "avg_fitness": 0.00026248810622352565,
+                "nfes": 350
+            }
+        ],
+        "function_evaluations": 350,
+        "parameters": {
+            "a": 1.9736054180447997,
+            "Rs": 0.6717006388588725,
+            "Rp": 144.60763598985653
+        },
+        "execution_time": 0.008158445358276367,
+        "module_type": "ST40",
+        "Is": 7.244905819269313e-06,
+        "Iph": 2.6924607438656665,
+        "run_id": 2
+    },
+    {
+        "best_solution": "[  1.97360542   0.67170064 144.60763599]",
+        "best_fitness": 4.9834821808997246e-11,
+        "convergence_history": [
+            {
+                "iteration": 0,
+                "best_fitness": 1.9090339136298964e-06,
+                "avg_fitness": 0.009827337313256601,
+                "nfes": 50
+            },
+            {
+                "iteration": 1,
+                "best_fitness": 1.9090339136298964e-06,
+                "avg_fitness": 0.003356923634680556,
+                "nfes": 100
+            },
+            {
+                "iteration": 2,
+                "best_fitness": 1.9090339136298964e-06,
+                "avg_fitness": 0.0020297780860197984,
+                "nfes": 150
+            },
+            {
+                "iteration": 3,
+                "best_fitness": 1.9090339136298964e-06,
+                "avg_fitness": 0.0015633269642979857,
+                "nfes": 200
+            },
+            {
+                "iteration": 4,
+                "best_fitness": 3.4719449039499524e-08,
+                "avg_fitness": 0.0005897288248142558,
+                "nfes": 250
+            },
+            {
+                "iteration": 5,
+                "best_fitness": 3.4719449039499524e-08,
+                "avg_fitness": 0.0004312762692048378,
+                "nfes": 300
+            },
+            {
+                "iteration": 6,
+                "best_fitness": 4.9834821808997246e-11,
+                "avg_fitness": 0.00026248810622352565,
+                "nfes": 350
+            }
+        ],
+        "function_evaluations": 350,
+        "parameters": {
+            "a": 1.9736054180447997,
+            "Rs": 0.6717006388588725,
+            "Rp": 144.60763598985653
+        },
+        "execution_time": 0.008643388748168945,
+        "module_type": "ST40",
+        "Is": 7.244905819269313e-06,
+        "Iph": 2.6924607438656665,
+        "run_id": 3
+    },
+    {
+        "best_solution": "[  1.97360542   0.67170064 144.60763599]",
+        "best_fitness": 4.9834821808997246e-11,
+        "convergence_history": [
+            {
+                "iteration": 0,
+                "best_fitness": 1.9090339136298964e-06,
+                "avg_fitness": 0.009827337313256601,
+                "nfes": 50
+            },
+            {
+                "iteration": 1,
+                "best_fitness": 1.9090339136298964e-06,
+                "avg_fitness": 0.003356923634680556,
+                "nfes": 100
+            },
+            {
+                "iteration": 2,
+                "best_fitness": 1.9090339136298964e-06,
+                "avg_fitness": 0.0020297780860197984,
+                "nfes": 150
+            },
+            {
+                "iteration": 3,
+                "best_fitness": 1.9090339136298964e-06,
+                "avg_fitness": 0.0015633269642979857,
+                "nfes": 200
+            },
+            {
+                "iteration": 4,
+                "best_fitness": 3.4719449039499524e-08,
+                "avg_fitness": 0.0005897288248142558,
+                "nfes": 250
+            },
+            {
+                "iteration": 5,
+                "best_fitness": 3.4719449039499524e-08,
+                "avg_fitness": 0.0004312762692048378,
+                "nfes": 300
+            },
+            {
+                "iteration": 6,
+                "best_fitness": 4.9834821808997246e-11,
+                "avg_fitness": 0.00026248810622352565,
+                "nfes": 350
+            }
+        ],
+        "function_evaluations": 350,
+        "parameters": {
+            "a": 1.9736054180447997,
+            "Rs": 0.6717006388588725,
+            "Rp": 144.60763598985653
+        },
+        "execution_time": 0.008933305740356445,
+        "module_type": "ST40",
+        "Is": 7.244905819269313e-06,
+        "Iph": 2.6924607438656665,
+        "run_id": 4
+    },
+    {
+        "best_solution": "[  1.97360542   0.67170064 144.60763599]",
+        "best_fitness": 4.9834821808997246e-11,
+        "convergence_history": [
+            {
+                "iteration": 0,
+                "best_fitness": 1.9090339136298964e-06,
+                "avg_fitness": 0.009827337313256601,
+                "nfes": 50
+            },
+            {
+                "iteration": 1,
+                "best_fitness": 1.9090339136298964e-06,
+                "avg_fitness": 0.003356923634680556,
+                "nfes": 100
+            },
+            {
+                "iteration": 2,
+                "best_fitness": 1.9090339136298964e-06,
+                "avg_fitness": 0.0020297780860197984,
+                "nfes": 150
+            },
+            {
+                "iteration": 3,
+                "best_fitness": 1.9090339136298964e-06,
+                "avg_fitness": 0.0015633269642979857,
+                "nfes": 200
+            },
+            {
+                "iteration": 4,
+                "best_fitness": 3.4719449039499524e-08,
+                "avg_fitness": 0.0005897288248142558,
+                "nfes": 250
+            },
+            {
+                "iteration": 5,
+                "best_fitness": 3.4719449039499524e-08,
+                "avg_fitness": 0.0004312762692048378,
+                "nfes": 300
+            },
+            {
+                "iteration": 6,
+                "best_fitness": 4.9834821808997246e-11,
+                "avg_fitness": 0.00026248810622352565,
+                "nfes": 350
+            }
+        ],
+        "function_evaluations": 350,
+        "parameters": {
+            "a": 1.9736054180447997,
+            "Rs": 0.6717006388588725,
+            "Rp": 144.60763598985653
+        },
+        "execution_time": 0.0055844783782958984,
+        "module_type": "ST40",
+        "Is": 7.244905819269313e-06,
+        "Iph": 2.6924607438656665,
+        "run_id": 5
+    },
+    {
+        "best_solution": "[  1.97360542   0.67170064 144.60763599]",
+        "best_fitness": 4.9834821808997246e-11,
+        "convergence_history": [
+            {
+                "iteration": 0,
+                "best_fitness": 1.9090339136298964e-06,
+                "avg_fitness": 0.009827337313256601,
+                "nfes": 50
+            },
+            {
+                "iteration": 1,
+                "best_fitness": 1.9090339136298964e-06,
+                "avg_fitness": 0.003356923634680556,
+                "nfes": 100
+            },
+            {
+                "iteration": 2,
+                "best_fitness": 1.9090339136298964e-06,
+                "avg_fitness": 0.0020297780860197984,
+                "nfes": 150
+            },
+            {
+                "iteration": 3,
+                "best_fitness": 1.9090339136298964e-06,
+                "avg_fitness": 0.0015633269642979857,
+                "nfes": 200
+            },
+            {
+                "iteration": 4,
+                "best_fitness": 3.4719449039499524e-08,
+                "avg_fitness": 0.0005897288248142558,
+                "nfes": 250
+            },
+            {
+                "iteration": 5,
+                "best_fitness": 3.4719449039499524e-08,
+                "avg_fitness": 0.0004312762692048378,
+                "nfes": 300
+            },
+            {
+                "iteration": 6,
+                "best_fitness": 4.9834821808997246e-11,
+                "avg_fitness": 0.00026248810622352565,
+                "nfes": 350
+            }
+        ],
+        "function_evaluations": 350,
+        "parameters": {
+            "a": 1.9736054180447997,
+            "Rs": 0.6717006388588725,
+            "Rp": 144.60763598985653
+        },
+        "execution_time": 0.007157564163208008,
+        "module_type": "ST40",
+        "Is": 7.244905819269313e-06,
+        "Iph": 2.6924607438656665,
+        "run_id": 6
+    },
+    {
+        "best_solution": "[  1.97360542   0.67170064 144.60763599]",
+        "best_fitness": 4.9834821808997246e-11,
+        "convergence_history": [
+            {
+                "iteration": 0,
+                "best_fitness": 1.9090339136298964e-06,
+                "avg_fitness": 0.009827337313256601,
+                "nfes": 50
+            },
+            {
+                "iteration": 1,
+                "best_fitness": 1.9090339136298964e-06,
+                "avg_fitness": 0.003356923634680556,
+                "nfes": 100
+            },
+            {
+                "iteration": 2,
+                "best_fitness": 1.9090339136298964e-06,
+                "avg_fitness": 0.0020297780860197984,
+                "nfes": 150
+            },
+            {
+                "iteration": 3,
+                "best_fitness": 1.9090339136298964e-06,
+                "avg_fitness": 0.0015633269642979857,
+                "nfes": 200
+            },
+            {
+                "iteration": 4,
+                "best_fitness": 3.4719449039499524e-08,
+                "avg_fitness": 0.0005897288248142558,
+                "nfes": 250
+            },
+            {
+                "iteration": 5,
+                "best_fitness": 3.4719449039499524e-08,
+                "avg_fitness": 0.0004312762692048378,
+                "nfes": 300
+            },
+            {
+                "iteration": 6,
+                "best_fitness": 4.9834821808997246e-11,
+                "avg_fitness": 0.00026248810622352565,
+                "nfes": 350
+            }
+        ],
+        "function_evaluations": 350,
+        "parameters": {
+            "a": 1.9736054180447997,
+            "Rs": 0.6717006388588725,
+            "Rp": 144.60763598985653
+        },
+        "execution_time": 0.004992961883544922,
+        "module_type": "ST40",
+        "Is": 7.244905819269313e-06,
+        "Iph": 2.6924607438656665,
+        "run_id": 7
+    },
+    {
+        "best_solution": "[  1.97360542   0.67170064 144.60763599]",
+        "best_fitness": 4.9834821808997246e-11,
+        "convergence_history": [
+            {
+                "iteration": 0,
+                "best_fitness": 1.9090339136298964e-06,
+                "avg_fitness": 0.009827337313256601,
+                "nfes": 50
+            },
+            {
+                "iteration": 1,
+                "best_fitness": 1.9090339136298964e-06,
+                "avg_fitness": 0.003356923634680556,
+                "nfes": 100
+            },
+            {
+                "iteration": 2,
+                "best_fitness": 1.9090339136298964e-06,
+                "avg_fitness": 0.0020297780860197984,
+                "nfes": 150
+            },
+            {
+                "iteration": 3,
+                "best_fitness": 1.9090339136298964e-06,
+                "avg_fitness": 0.0015633269642979857,
+                "nfes": 200
+            },
+            {
+                "iteration": 4,
+                "best_fitness": 3.4719449039499524e-08,
+                "avg_fitness": 0.0005897288248142558,
+                "nfes": 250
+            },
+            {
+                "iteration": 5,
+                "best_fitness": 3.4719449039499524e-08,
+                "avg_fitness": 0.0004312762692048378,
+                "nfes": 300
+            },
+            {
+                "iteration": 6,
+                "best_fitness": 4.9834821808997246e-11,
+                "avg_fitness": 0.00026248810622352565,
+                "nfes": 350
+            }
+        ],
+        "function_evaluations": 350,
+        "parameters": {
+            "a": 1.9736054180447997,
+            "Rs": 0.6717006388588725,
+            "Rp": 144.60763598985653
+        },
+        "execution_time": 0.006003379821777344,
+        "module_type": "ST40",
+        "Is": 7.244905819269313e-06,
+        "Iph": 2.6924607438656665,
+        "run_id": 8
+    },
+    {
+        "best_solution": "[  1.97360542   0.67170064 144.60763599]",
+        "best_fitness": 4.9834821808997246e-11,
+        "convergence_history": [
+            {
+                "iteration": 0,
+                "best_fitness": 1.9090339136298964e-06,
+                "avg_fitness": 0.009827337313256601,
+                "nfes": 50
+            },
+            {
+                "iteration": 1,
+                "best_fitness": 1.9090339136298964e-06,
+                "avg_fitness": 0.003356923634680556,
+                "nfes": 100
+            },
+            {
+                "iteration": 2,
+                "best_fitness": 1.9090339136298964e-06,
+                "avg_fitness": 0.0020297780860197984,
+                "nfes": 150
+            },
+            {
+                "iteration": 3,
+                "best_fitness": 1.9090339136298964e-06,
+                "avg_fitness": 0.0015633269642979857,
+                "nfes": 200
+            },
+            {
+                "iteration": 4,
+                "best_fitness": 3.4719449039499524e-08,
+                "avg_fitness": 0.0005897288248142558,
+                "nfes": 250
+            },
+            {
+                "iteration": 5,
+                "best_fitness": 3.4719449039499524e-08,
+                "avg_fitness": 0.0004312762692048378,
+                "nfes": 300
+            },
+            {
+                "iteration": 6,
+                "best_fitness": 4.9834821808997246e-11,
+                "avg_fitness": 0.00026248810622352565,
+                "nfes": 350
+            }
+        ],
+        "function_evaluations": 350,
+        "parameters": {
+            "a": 1.9736054180447997,
+            "Rs": 0.6717006388588725,
+            "Rp": 144.60763598985653
+        },
+        "execution_time": 0.008306503295898438,
+        "module_type": "ST40",
+        "Is": 7.244905819269313e-06,
+        "Iph": 2.6924607438656665,
+        "run_id": 9
+    },
+    {
+        "best_solution": "[  1.97360542   0.67170064 144.60763599]",
+        "best_fitness": 4.9834821808997246e-11,
+        "convergence_history": [
+            {
+                "iteration": 0,
+                "best_fitness": 1.9090339136298964e-06,
+                "avg_fitness": 0.009827337313256601,
+                "nfes": 50
+            },
+            {
+                "iteration": 1,
+                "best_fitness": 1.9090339136298964e-06,
+                "avg_fitness": 0.003356923634680556,
+                "nfes": 100
+            },
+            {
+                "iteration": 2,
+                "best_fitness": 1.9090339136298964e-06,
+                "avg_fitness": 0.0020297780860197984,
+                "nfes": 150
+            },
+            {
+                "iteration": 3,
+                "best_fitness": 1.9090339136298964e-06,
+                "avg_fitness": 0.0015633269642979857,
+                "nfes": 200
+            },
+            {
+                "iteration": 4,
+                "best_fitness": 3.4719449039499524e-08,
+                "avg_fitness": 0.0005897288248142558,
+                "nfes": 250
+            },
+            {
+                "iteration": 5,
+                "best_fitness": 3.4719449039499524e-08,
+                "avg_fitness": 0.0004312762692048378,
+                "nfes": 300
+            },
+            {
+                "iteration": 6,
+                "best_fitness": 4.9834821808997246e-11,
+                "avg_fitness": 0.00026248810622352565,
+                "nfes": 350
+            }
+        ],
+        "function_evaluations": 350,
+        "parameters": {
+            "a": 1.9736054180447997,
+            "Rs": 0.6717006388588725,
+            "Rp": 144.60763598985653
+        },
+        "execution_time": 0.006867408752441406,
+        "module_type": "ST40",
+        "Is": 7.244905819269313e-06,
+        "Iph": 2.6924607438656665,
+        "run_id": 10
+    },
+    {
+        "best_solution": "[  1.97360542   0.67170064 144.60763599]",
+        "best_fitness": 4.9834821808997246e-11,
+        "convergence_history": [
+            {
+                "iteration": 0,
+                "best_fitness": 1.9090339136298964e-06,
+                "avg_fitness": 0.009827337313256601,
+                "nfes": 50
+            },
+            {
+                "iteration": 1,
+                "best_fitness": 1.9090339136298964e-06,
+                "avg_fitness": 0.003356923634680556,
+                "nfes": 100
+            },
+            {
+                "iteration": 2,
+                "best_fitness": 1.9090339136298964e-06,
+                "avg_fitness": 0.0020297780860197984,
+                "nfes": 150
+            },
+            {
+                "iteration": 3,
+                "best_fitness": 1.9090339136298964e-06,
+                "avg_fitness": 0.0015633269642979857,
+                "nfes": 200
+            },
+            {
+                "iteration": 4,
+                "best_fitness": 3.4719449039499524e-08,
+                "avg_fitness": 0.0005897288248142558,
+                "nfes": 250
+            },
+            {
+                "iteration": 5,
+                "best_fitness": 3.4719449039499524e-08,
+                "avg_fitness": 0.0004312762692048378,
+                "nfes": 300
+            },
+            {
+                "iteration": 6,
+                "best_fitness": 4.9834821808997246e-11,
+                "avg_fitness": 0.00026248810622352565,
+                "nfes": 350
+            }
+        ],
+        "function_evaluations": 350,
+        "parameters": {
+            "a": 1.9736054180447997,
+            "Rs": 0.6717006388588725,
+            "Rp": 144.60763598985653
+        },
+        "execution_time": 0.01042032241821289,
+        "module_type": "ST40",
+        "Is": 7.244905819269313e-06,
+        "Iph": 2.6924607438656665,
+        "run_id": 11
+    },
+    {
+        "best_solution": "[  1.97360542   0.67170064 144.60763599]",
+        "best_fitness": 4.9834821808997246e-11,
+        "convergence_history": [
+            {
+                "iteration": 0,
+                "best_fitness": 1.9090339136298964e-06,
+                "avg_fitness": 0.009827337313256601,
+                "nfes": 50
+            },
+            {
+                "iteration": 1,
+                "best_fitness": 1.9090339136298964e-06,
+                "avg_fitness": 0.003356923634680556,
+                "nfes": 100
+            },
+            {
+                "iteration": 2,
+                "best_fitness": 1.9090339136298964e-06,
+                "avg_fitness": 0.0020297780860197984,
+                "nfes": 150
+            },
+            {
+                "iteration": 3,
+                "best_fitness": 1.9090339136298964e-06,
+                "avg_fitness": 0.0015633269642979857,
+                "nfes": 200
+            },
+            {
+                "iteration": 4,
+                "best_fitness": 3.4719449039499524e-08,
+                "avg_fitness": 0.0005897288248142558,
+                "nfes": 250
+            },
+            {
+                "iteration": 5,
+                "best_fitness": 3.4719449039499524e-08,
+                "avg_fitness": 0.0004312762692048378,
+                "nfes": 300
+            },
+            {
+                "iteration": 6,
+                "best_fitness": 4.9834821808997246e-11,
+                "avg_fitness": 0.00026248810622352565,
+                "nfes": 350
+            }
+        ],
+        "function_evaluations": 350,
+        "parameters": {
+            "a": 1.9736054180447997,
+            "Rs": 0.6717006388588725,
+            "Rp": 144.60763598985653
+        },
+        "execution_time": 0.011077165603637695,
+        "module_type": "ST40",
+        "Is": 7.244905819269313e-06,
+        "Iph": 2.6924607438656665,
+        "run_id": 12
+    },
+    {
+        "best_solution": "[  1.97360542   0.67170064 144.60763599]",
+        "best_fitness": 4.9834821808997246e-11,
+        "convergence_history": [
+            {
+                "iteration": 0,
+                "best_fitness": 1.9090339136298964e-06,
+                "avg_fitness": 0.009827337313256601,
+                "nfes": 50
+            },
+            {
+                "iteration": 1,
+                "best_fitness": 1.9090339136298964e-06,
+                "avg_fitness": 0.003356923634680556,
+                "nfes": 100
+            },
+            {
+                "iteration": 2,
+                "best_fitness": 1.9090339136298964e-06,
+                "avg_fitness": 0.0020297780860197984,
+                "nfes": 150
+            },
+            {
+                "iteration": 3,
+                "best_fitness": 1.9090339136298964e-06,
+                "avg_fitness": 0.0015633269642979857,
+                "nfes": 200
+            },
+            {
+                "iteration": 4,
+                "best_fitness": 3.4719449039499524e-08,
+                "avg_fitness": 0.0005897288248142558,
+                "nfes": 250
+            },
+            {
+                "iteration": 5,
+                "best_fitness": 3.4719449039499524e-08,
+                "avg_fitness": 0.0004312762692048378,
+                "nfes": 300
+            },
+            {
+                "iteration": 6,
+                "best_fitness": 4.9834821808997246e-11,
+                "avg_fitness": 0.00026248810622352565,
+                "nfes": 350
+            }
+        ],
+        "function_evaluations": 350,
+        "parameters": {
+            "a": 1.9736054180447997,
+            "Rs": 0.6717006388588725,
+            "Rp": 144.60763598985653
+        },
+        "execution_time": 0.00796651840209961,
+        "module_type": "ST40",
+        "Is": 7.244905819269313e-06,
+        "Iph": 2.6924607438656665,
+        "run_id": 13
+    },
+    {
+        "best_solution": "[  1.97360542   0.67170064 144.60763599]",
+        "best_fitness": 4.9834821808997246e-11,
+        "convergence_history": [
+            {
+                "iteration": 0,
+                "best_fitness": 1.9090339136298964e-06,
+                "avg_fitness": 0.009827337313256601,
+                "nfes": 50
+            },
+            {
+                "iteration": 1,
+                "best_fitness": 1.9090339136298964e-06,
+                "avg_fitness": 0.003356923634680556,
+                "nfes": 100
+            },
+            {
+                "iteration": 2,
+                "best_fitness": 1.9090339136298964e-06,
+                "avg_fitness": 0.0020297780860197984,
+                "nfes": 150
+            },
+            {
+                "iteration": 3,
+                "best_fitness": 1.9090339136298964e-06,
+                "avg_fitness": 0.0015633269642979857,
+                "nfes": 200
+            },
+            {
+                "iteration": 4,
+                "best_fitness": 3.4719449039499524e-08,
+                "avg_fitness": 0.0005897288248142558,
+                "nfes": 250
+            },
+            {
+                "iteration": 5,
+                "best_fitness": 3.4719449039499524e-08,
+                "avg_fitness": 0.0004312762692048378,
+                "nfes": 300
+            },
+            {
+                "iteration": 6,
+                "best_fitness": 4.9834821808997246e-11,
+                "avg_fitness": 0.00026248810622352565,
+                "nfes": 350
+            }
+        ],
+        "function_evaluations": 350,
+        "parameters": {
+            "a": 1.9736054180447997,
+            "Rs": 0.6717006388588725,
+            "Rp": 144.60763598985653
+        },
+        "execution_time": 0.010241508483886719,
+        "module_type": "ST40",
+        "Is": 7.244905819269313e-06,
+        "Iph": 2.6924607438656665,
+        "run_id": 14
+    },
+    {
+        "best_solution": "[  1.97360542   0.67170064 144.60763599]",
+        "best_fitness": 4.9834821808997246e-11,
+        "convergence_history": [
+            {
+                "iteration": 0,
+                "best_fitness": 1.9090339136298964e-06,
+                "avg_fitness": 0.009827337313256601,
+                "nfes": 50
+            },
+            {
+                "iteration": 1,
+                "best_fitness": 1.9090339136298964e-06,
+                "avg_fitness": 0.003356923634680556,
+                "nfes": 100
+            },
+            {
+                "iteration": 2,
+                "best_fitness": 1.9090339136298964e-06,
+                "avg_fitness": 0.0020297780860197984,
+                "nfes": 150
+            },
+            {
+                "iteration": 3,
+                "best_fitness": 1.9090339136298964e-06,
+                "avg_fitness": 0.0015633269642979857,
+                "nfes": 200
+            },
+            {
+                "iteration": 4,
+                "best_fitness": 3.4719449039499524e-08,
+                "avg_fitness": 0.0005897288248142558,
+                "nfes": 250
+            },
+            {
+                "iteration": 5,
+                "best_fitness": 3.4719449039499524e-08,
+                "avg_fitness": 0.0004312762692048378,
+                "nfes": 300
+            },
+            {
+                "iteration": 6,
+                "best_fitness": 4.9834821808997246e-11,
+                "avg_fitness": 0.00026248810622352565,
+                "nfes": 350
+            }
+        ],
+        "function_evaluations": 350,
+        "parameters": {
+            "a": 1.9736054180447997,
+            "Rs": 0.6717006388588725,
+            "Rp": 144.60763598985653
+        },
+        "execution_time": 0.006700277328491211,
+        "module_type": "ST40",
+        "Is": 7.244905819269313e-06,
+        "Iph": 2.6924607438656665,
+        "run_id": 15
+    },
+    {
+        "best_solution": "[  1.97360542   0.67170064 144.60763599]",
+        "best_fitness": 4.9834821808997246e-11,
+        "convergence_history": [
+            {
+                "iteration": 0,
+                "best_fitness": 1.9090339136298964e-06,
+                "avg_fitness": 0.009827337313256601,
+                "nfes": 50
+            },
+            {
+                "iteration": 1,
+                "best_fitness": 1.9090339136298964e-06,
+                "avg_fitness": 0.003356923634680556,
+                "nfes": 100
+            },
+            {
+                "iteration": 2,
+                "best_fitness": 1.9090339136298964e-06,
+                "avg_fitness": 0.0020297780860197984,
+                "nfes": 150
+            },
+            {
+                "iteration": 3,
+                "best_fitness": 1.9090339136298964e-06,
+                "avg_fitness": 0.0015633269642979857,
+                "nfes": 200
+            },
+            {
+                "iteration": 4,
+                "best_fitness": 3.4719449039499524e-08,
+                "avg_fitness": 0.0005897288248142558,
+                "nfes": 250
+            },
+            {
+                "iteration": 5,
+                "best_fitness": 3.4719449039499524e-08,
+                "avg_fitness": 0.0004312762692048378,
+                "nfes": 300
+            },
+            {
+                "iteration": 6,
+                "best_fitness": 4.9834821808997246e-11,
+                "avg_fitness": 0.00026248810622352565,
+                "nfes": 350
+            }
+        ],
+        "function_evaluations": 350,
+        "parameters": {
+            "a": 1.9736054180447997,
+            "Rs": 0.6717006388588725,
+            "Rp": 144.60763598985653
+        },
+        "execution_time": 0.007024049758911133,
+        "module_type": "ST40",
+        "Is": 7.244905819269313e-06,
+        "Iph": 2.6924607438656665,
+        "run_id": 16
+    },
+    {
+        "best_solution": "[  1.97360542   0.67170064 144.60763599]",
+        "best_fitness": 4.9834821808997246e-11,
+        "convergence_history": [
+            {
+                "iteration": 0,
+                "best_fitness": 1.9090339136298964e-06,
+                "avg_fitness": 0.009827337313256601,
+                "nfes": 50
+            },
+            {
+                "iteration": 1,
+                "best_fitness": 1.9090339136298964e-06,
+                "avg_fitness": 0.003356923634680556,
+                "nfes": 100
+            },
+            {
+                "iteration": 2,
+                "best_fitness": 1.9090339136298964e-06,
+                "avg_fitness": 0.0020297780860197984,
+                "nfes": 150
+            },
+            {
+                "iteration": 3,
+                "best_fitness": 1.9090339136298964e-06,
+                "avg_fitness": 0.0015633269642979857,
+                "nfes": 200
+            },
+            {
+                "iteration": 4,
+                "best_fitness": 3.4719449039499524e-08,
+                "avg_fitness": 0.0005897288248142558,
+                "nfes": 250
+            },
+            {
+                "iteration": 5,
+                "best_fitness": 3.4719449039499524e-08,
+                "avg_fitness": 0.0004312762692048378,
+                "nfes": 300
+            },
+            {
+                "iteration": 6,
+                "best_fitness": 4.9834821808997246e-11,
+                "avg_fitness": 0.00026248810622352565,
+                "nfes": 350
+            }
+        ],
+        "function_evaluations": 350,
+        "parameters": {
+            "a": 1.9736054180447997,
+            "Rs": 0.6717006388588725,
+            "Rp": 144.60763598985653
+        },
+        "execution_time": 0.008669853210449219,
+        "module_type": "ST40",
+        "Is": 7.244905819269313e-06,
+        "Iph": 2.6924607438656665,
+        "run_id": 17
+    },
+    {
+        "best_solution": "[  1.97360542   0.67170064 144.60763599]",
+        "best_fitness": 4.9834821808997246e-11,
+        "convergence_history": [
+            {
+                "iteration": 0,
+                "best_fitness": 1.9090339136298964e-06,
+                "avg_fitness": 0.009827337313256601,
+                "nfes": 50
+            },
+            {
+                "iteration": 1,
+                "best_fitness": 1.9090339136298964e-06,
+                "avg_fitness": 0.003356923634680556,
+                "nfes": 100
+            },
+            {
+                "iteration": 2,
+                "best_fitness": 1.9090339136298964e-06,
+                "avg_fitness": 0.0020297780860197984,
+                "nfes": 150
+            },
+            {
+                "iteration": 3,
+                "best_fitness": 1.9090339136298964e-06,
+                "avg_fitness": 0.0015633269642979857,
+                "nfes": 200
+            },
+            {
+                "iteration": 4,
+                "best_fitness": 3.4719449039499524e-08,
+                "avg_fitness": 0.0005897288248142558,
+                "nfes": 250
+            },
+            {
+                "iteration": 5,
+                "best_fitness": 3.4719449039499524e-08,
+                "avg_fitness": 0.0004312762692048378,
+                "nfes": 300
+            },
+            {
+                "iteration": 6,
+                "best_fitness": 4.9834821808997246e-11,
+                "avg_fitness": 0.00026248810622352565,
+                "nfes": 350
+            }
+        ],
+        "function_evaluations": 350,
+        "parameters": {
+            "a": 1.9736054180447997,
+            "Rs": 0.6717006388588725,
+            "Rp": 144.60763598985653
+        },
+        "execution_time": 0.00829768180847168,
+        "module_type": "ST40",
+        "Is": 7.244905819269313e-06,
+        "Iph": 2.6924607438656665,
+        "run_id": 18
+    },
+    {
+        "best_solution": "[  1.97360542   0.67170064 144.60763599]",
+        "best_fitness": 4.9834821808997246e-11,
+        "convergence_history": [
+            {
+                "iteration": 0,
+                "best_fitness": 1.9090339136298964e-06,
+                "avg_fitness": 0.009827337313256601,
+                "nfes": 50
+            },
+            {
+                "iteration": 1,
+                "best_fitness": 1.9090339136298964e-06,
+                "avg_fitness": 0.003356923634680556,
+                "nfes": 100
+            },
+            {
+                "iteration": 2,
+                "best_fitness": 1.9090339136298964e-06,
+                "avg_fitness": 0.0020297780860197984,
+                "nfes": 150
+            },
+            {
+                "iteration": 3,
+                "best_fitness": 1.9090339136298964e-06,
+                "avg_fitness": 0.0015633269642979857,
+                "nfes": 200
+            },
+            {
+                "iteration": 4,
+                "best_fitness": 3.4719449039499524e-08,
+                "avg_fitness": 0.0005897288248142558,
+                "nfes": 250
+            },
+            {
+                "iteration": 5,
+                "best_fitness": 3.4719449039499524e-08,
+                "avg_fitness": 0.0004312762692048378,
+                "nfes": 300
+            },
+            {
+                "iteration": 6,
+                "best_fitness": 4.9834821808997246e-11,
+                "avg_fitness": 0.00026248810622352565,
+                "nfes": 350
+            }
+        ],
+        "function_evaluations": 350,
+        "parameters": {
+            "a": 1.9736054180447997,
+            "Rs": 0.6717006388588725,
+            "Rp": 144.60763598985653
+        },
+        "execution_time": 0.00955343246459961,
+        "module_type": "ST40",
+        "Is": 7.244905819269313e-06,
+        "Iph": 2.6924607438656665,
+        "run_id": 19
+    },
+    {
+        "best_solution": "[  1.97360542   0.67170064 144.60763599]",
+        "best_fitness": 4.9834821808997246e-11,
+        "convergence_history": [
+            {
+                "iteration": 0,
+                "best_fitness": 1.9090339136298964e-06,
+                "avg_fitness": 0.009827337313256601,
+                "nfes": 50
+            },
+            {
+                "iteration": 1,
+                "best_fitness": 1.9090339136298964e-06,
+                "avg_fitness": 0.003356923634680556,
+                "nfes": 100
+            },
+            {
+                "iteration": 2,
+                "best_fitness": 1.9090339136298964e-06,
+                "avg_fitness": 0.0020297780860197984,
+                "nfes": 150
+            },
+            {
+                "iteration": 3,
+                "best_fitness": 1.9090339136298964e-06,
+                "avg_fitness": 0.0015633269642979857,
+                "nfes": 200
+            },
+            {
+                "iteration": 4,
+                "best_fitness": 3.4719449039499524e-08,
+                "avg_fitness": 0.0005897288248142558,
+                "nfes": 250
+            },
+            {
+                "iteration": 5,
+                "best_fitness": 3.4719449039499524e-08,
+                "avg_fitness": 0.0004312762692048378,
+                "nfes": 300
+            },
+            {
+                "iteration": 6,
+                "best_fitness": 4.9834821808997246e-11,
+                "avg_fitness": 0.00026248810622352565,
+                "nfes": 350
+            }
+        ],
+        "function_evaluations": 350,
+        "parameters": {
+            "a": 1.9736054180447997,
+            "Rs": 0.6717006388588725,
+            "Rp": 144.60763598985653
+        },
+        "execution_time": 0.008542776107788086,
+        "module_type": "ST40",
+        "Is": 7.244905819269313e-06,
+        "Iph": 2.6924607438656665,
+        "run_id": 20
+    },
+    {
+        "best_solution": "[  1.97360542   0.67170064 144.60763599]",
+        "best_fitness": 4.9834821808997246e-11,
+        "convergence_history": [
+            {
+                "iteration": 0,
+                "best_fitness": 1.9090339136298964e-06,
+                "avg_fitness": 0.009827337313256601,
+                "nfes": 50
+            },
+            {
+                "iteration": 1,
+                "best_fitness": 1.9090339136298964e-06,
+                "avg_fitness": 0.003356923634680556,
+                "nfes": 100
+            },
+            {
+                "iteration": 2,
+                "best_fitness": 1.9090339136298964e-06,
+                "avg_fitness": 0.0020297780860197984,
+                "nfes": 150
+            },
+            {
+                "iteration": 3,
+                "best_fitness": 1.9090339136298964e-06,
+                "avg_fitness": 0.0015633269642979857,
+                "nfes": 200
+            },
+            {
+                "iteration": 4,
+                "best_fitness": 3.4719449039499524e-08,
+                "avg_fitness": 0.0005897288248142558,
+                "nfes": 250
+            },
+            {
+                "iteration": 5,
+                "best_fitness": 3.4719449039499524e-08,
+                "avg_fitness": 0.0004312762692048378,
+                "nfes": 300
+            },
+            {
+                "iteration": 6,
+                "best_fitness": 4.9834821808997246e-11,
+                "avg_fitness": 0.00026248810622352565,
+                "nfes": 350
+            }
+        ],
+        "function_evaluations": 350,
+        "parameters": {
+            "a": 1.9736054180447997,
+            "Rs": 0.6717006388588725,
+            "Rp": 144.60763598985653
+        },
+        "execution_time": 0.008052349090576172,
+        "module_type": "ST40",
+        "Is": 7.244905819269313e-06,
+        "Iph": 2.6924607438656665,
+        "run_id": 21
+    },
+    {
+        "best_solution": "[  1.97360542   0.67170064 144.60763599]",
+        "best_fitness": 4.9834821808997246e-11,
+        "convergence_history": [
+            {
+                "iteration": 0,
+                "best_fitness": 1.9090339136298964e-06,
+                "avg_fitness": 0.009827337313256601,
+                "nfes": 50
+            },
+            {
+                "iteration": 1,
+                "best_fitness": 1.9090339136298964e-06,
+                "avg_fitness": 0.003356923634680556,
+                "nfes": 100
+            },
+            {
+                "iteration": 2,
+                "best_fitness": 1.9090339136298964e-06,
+                "avg_fitness": 0.0020297780860197984,
+                "nfes": 150
+            },
+            {
+                "iteration": 3,
+                "best_fitness": 1.9090339136298964e-06,
+                "avg_fitness": 0.0015633269642979857,
+                "nfes": 200
+            },
+            {
+                "iteration": 4,
+                "best_fitness": 3.4719449039499524e-08,
+                "avg_fitness": 0.0005897288248142558,
+                "nfes": 250
+            },
+            {
+                "iteration": 5,
+                "best_fitness": 3.4719449039499524e-08,
+                "avg_fitness": 0.0004312762692048378,
+                "nfes": 300
+            },
+            {
+                "iteration": 6,
+                "best_fitness": 4.9834821808997246e-11,
+                "avg_fitness": 0.00026248810622352565,
+                "nfes": 350
+            }
+        ],
+        "function_evaluations": 350,
+        "parameters": {
+            "a": 1.9736054180447997,
+            "Rs": 0.6717006388588725,
+            "Rp": 144.60763598985653
+        },
+        "execution_time": 0.005262613296508789,
+        "module_type": "ST40",
+        "Is": 7.244905819269313e-06,
+        "Iph": 2.6924607438656665,
+        "run_id": 22
+    },
+    {
+        "best_solution": "[  1.97360542   0.67170064 144.60763599]",
+        "best_fitness": 4.9834821808997246e-11,
+        "convergence_history": [
+            {
+                "iteration": 0,
+                "best_fitness": 1.9090339136298964e-06,
+                "avg_fitness": 0.009827337313256601,
+                "nfes": 50
+            },
+            {
+                "iteration": 1,
+                "best_fitness": 1.9090339136298964e-06,
+                "avg_fitness": 0.003356923634680556,
+                "nfes": 100
+            },
+            {
+                "iteration": 2,
+                "best_fitness": 1.9090339136298964e-06,
+                "avg_fitness": 0.0020297780860197984,
+                "nfes": 150
+            },
+            {
+                "iteration": 3,
+                "best_fitness": 1.9090339136298964e-06,
+                "avg_fitness": 0.0015633269642979857,
+                "nfes": 200
+            },
+            {
+                "iteration": 4,
+                "best_fitness": 3.4719449039499524e-08,
+                "avg_fitness": 0.0005897288248142558,
+                "nfes": 250
+            },
+            {
+                "iteration": 5,
+                "best_fitness": 3.4719449039499524e-08,
+                "avg_fitness": 0.0004312762692048378,
+                "nfes": 300
+            },
+            {
+                "iteration": 6,
+                "best_fitness": 4.9834821808997246e-11,
+                "avg_fitness": 0.00026248810622352565,
+                "nfes": 350
+            }
+        ],
+        "function_evaluations": 350,
+        "parameters": {
+            "a": 1.9736054180447997,
+            "Rs": 0.6717006388588725,
+            "Rp": 144.60763598985653
+        },
+        "execution_time": 0.0060193538665771484,
+        "module_type": "ST40",
+        "Is": 7.244905819269313e-06,
+        "Iph": 2.6924607438656665,
+        "run_id": 23
+    },
+    {
+        "best_solution": "[  1.97360542   0.67170064 144.60763599]",
+        "best_fitness": 4.9834821808997246e-11,
+        "convergence_history": [
+            {
+                "iteration": 0,
+                "best_fitness": 1.9090339136298964e-06,
+                "avg_fitness": 0.009827337313256601,
+                "nfes": 50
+            },
+            {
+                "iteration": 1,
+                "best_fitness": 1.9090339136298964e-06,
+                "avg_fitness": 0.003356923634680556,
+                "nfes": 100
+            },
+            {
+                "iteration": 2,
+                "best_fitness": 1.9090339136298964e-06,
+                "avg_fitness": 0.0020297780860197984,
+                "nfes": 150
+            },
+            {
+                "iteration": 3,
+                "best_fitness": 1.9090339136298964e-06,
+                "avg_fitness": 0.0015633269642979857,
+                "nfes": 200
+            },
+            {
+                "iteration": 4,
+                "best_fitness": 3.4719449039499524e-08,
+                "avg_fitness": 0.0005897288248142558,
+                "nfes": 250
+            },
+            {
+                "iteration": 5,
+                "best_fitness": 3.4719449039499524e-08,
+                "avg_fitness": 0.0004312762692048378,
+                "nfes": 300
+            },
+            {
+                "iteration": 6,
+                "best_fitness": 4.9834821808997246e-11,
+                "avg_fitness": 0.00026248810622352565,
+                "nfes": 350
+            }
+        ],
+        "function_evaluations": 350,
+        "parameters": {
+            "a": 1.9736054180447997,
+            "Rs": 0.6717006388588725,
+            "Rp": 144.60763598985653
+        },
+        "execution_time": 0.005315065383911133,
+        "module_type": "ST40",
+        "Is": 7.244905819269313e-06,
+        "Iph": 2.6924607438656665,
+        "run_id": 24
+    },
+    {
+        "best_solution": "[  1.97360542   0.67170064 144.60763599]",
+        "best_fitness": 4.9834821808997246e-11,
+        "convergence_history": [
+            {
+                "iteration": 0,
+                "best_fitness": 1.9090339136298964e-06,
+                "avg_fitness": 0.009827337313256601,
+                "nfes": 50
+            },
+            {
+                "iteration": 1,
+                "best_fitness": 1.9090339136298964e-06,
+                "avg_fitness": 0.003356923634680556,
+                "nfes": 100
+            },
+            {
+                "iteration": 2,
+                "best_fitness": 1.9090339136298964e-06,
+                "avg_fitness": 0.0020297780860197984,
+                "nfes": 150
+            },
+            {
+                "iteration": 3,
+                "best_fitness": 1.9090339136298964e-06,
+                "avg_fitness": 0.0015633269642979857,
+                "nfes": 200
+            },
+            {
+                "iteration": 4,
+                "best_fitness": 3.4719449039499524e-08,
+                "avg_fitness": 0.0005897288248142558,
+                "nfes": 250
+            },
+            {
+                "iteration": 5,
+                "best_fitness": 3.4719449039499524e-08,
+                "avg_fitness": 0.0004312762692048378,
+                "nfes": 300
+            },
+            {
+                "iteration": 6,
+                "best_fitness": 4.9834821808997246e-11,
+                "avg_fitness": 0.00026248810622352565,
+                "nfes": 350
+            }
+        ],
+        "function_evaluations": 350,
+        "parameters": {
+            "a": 1.9736054180447997,
+            "Rs": 0.6717006388588725,
+            "Rp": 144.60763598985653
+        },
+        "execution_time": 0.0050487518310546875,
+        "module_type": "ST40",
+        "Is": 7.244905819269313e-06,
+        "Iph": 2.6924607438656665,
+        "run_id": 25
+    },
+    {
+        "best_solution": "[  1.97360542   0.67170064 144.60763599]",
+        "best_fitness": 4.9834821808997246e-11,
+        "convergence_history": [
+            {
+                "iteration": 0,
+                "best_fitness": 1.9090339136298964e-06,
+                "avg_fitness": 0.009827337313256601,
+                "nfes": 50
+            },
+            {
+                "iteration": 1,
+                "best_fitness": 1.9090339136298964e-06,
+                "avg_fitness": 0.003356923634680556,
+                "nfes": 100
+            },
+            {
+                "iteration": 2,
+                "best_fitness": 1.9090339136298964e-06,
+                "avg_fitness": 0.0020297780860197984,
+                "nfes": 150
+            },
+            {
+                "iteration": 3,
+                "best_fitness": 1.9090339136298964e-06,
+                "avg_fitness": 0.0015633269642979857,
+                "nfes": 200
+            },
+            {
+                "iteration": 4,
+                "best_fitness": 3.4719449039499524e-08,
+                "avg_fitness": 0.0005897288248142558,
+                "nfes": 250
+            },
+            {
+                "iteration": 5,
+                "best_fitness": 3.4719449039499524e-08,
+                "avg_fitness": 0.0004312762692048378,
+                "nfes": 300
+            },
+            {
+                "iteration": 6,
+                "best_fitness": 4.9834821808997246e-11,
+                "avg_fitness": 0.00026248810622352565,
+                "nfes": 350
+            }
+        ],
+        "function_evaluations": 350,
+        "parameters": {
+            "a": 1.9736054180447997,
+            "Rs": 0.6717006388588725,
+            "Rp": 144.60763598985653
+        },
+        "execution_time": 0.006704092025756836,
+        "module_type": "ST40",
+        "Is": 7.244905819269313e-06,
+        "Iph": 2.6924607438656665,
+        "run_id": 26
+    },
+    {
+        "best_solution": "[  1.97360542   0.67170064 144.60763599]",
+        "best_fitness": 4.9834821808997246e-11,
+        "convergence_history": [
+            {
+                "iteration": 0,
+                "best_fitness": 1.9090339136298964e-06,
+                "avg_fitness": 0.009827337313256601,
+                "nfes": 50
+            },
+            {
+                "iteration": 1,
+                "best_fitness": 1.9090339136298964e-06,
+                "avg_fitness": 0.003356923634680556,
+                "nfes": 100
+            },
+            {
+                "iteration": 2,
+                "best_fitness": 1.9090339136298964e-06,
+                "avg_fitness": 0.0020297780860197984,
+                "nfes": 150
+            },
+            {
+                "iteration": 3,
+                "best_fitness": 1.9090339136298964e-06,
+                "avg_fitness": 0.0015633269642979857,
+                "nfes": 200
+            },
+            {
+                "iteration": 4,
+                "best_fitness": 3.4719449039499524e-08,
+                "avg_fitness": 0.0005897288248142558,
+                "nfes": 250
+            },
+            {
+                "iteration": 5,
+                "best_fitness": 3.4719449039499524e-08,
+                "avg_fitness": 0.0004312762692048378,
+                "nfes": 300
+            },
+            {
+                "iteration": 6,
+                "best_fitness": 4.9834821808997246e-11,
+                "avg_fitness": 0.00026248810622352565,
+                "nfes": 350
+            }
+        ],
+        "function_evaluations": 350,
+        "parameters": {
+            "a": 1.9736054180447997,
+            "Rs": 0.6717006388588725,
+            "Rp": 144.60763598985653
+        },
+        "execution_time": 0.006188392639160156,
+        "module_type": "ST40",
+        "Is": 7.244905819269313e-06,
+        "Iph": 2.6924607438656665,
+        "run_id": 27
+    },
+    {
+        "best_solution": "[  1.97360542   0.67170064 144.60763599]",
+        "best_fitness": 4.9834821808997246e-11,
+        "convergence_history": [
+            {
+                "iteration": 0,
+                "best_fitness": 1.9090339136298964e-06,
+                "avg_fitness": 0.009827337313256601,
+                "nfes": 50
+            },
+            {
+                "iteration": 1,
+                "best_fitness": 1.9090339136298964e-06,
+                "avg_fitness": 0.003356923634680556,
+                "nfes": 100
+            },
+            {
+                "iteration": 2,
+                "best_fitness": 1.9090339136298964e-06,
+                "avg_fitness": 0.0020297780860197984,
+                "nfes": 150
+            },
+            {
+                "iteration": 3,
+                "best_fitness": 1.9090339136298964e-06,
+                "avg_fitness": 0.0015633269642979857,
+                "nfes": 200
+            },
+            {
+                "iteration": 4,
+                "best_fitness": 3.4719449039499524e-08,
+                "avg_fitness": 0.0005897288248142558,
+                "nfes": 250
+            },
+            {
+                "iteration": 5,
+                "best_fitness": 3.4719449039499524e-08,
+                "avg_fitness": 0.0004312762692048378,
+                "nfes": 300
+            },
+            {
+                "iteration": 6,
+                "best_fitness": 4.9834821808997246e-11,
+                "avg_fitness": 0.00026248810622352565,
+                "nfes": 350
+            }
+        ],
+        "function_evaluations": 350,
+        "parameters": {
+            "a": 1.9736054180447997,
+            "Rs": 0.6717006388588725,
+            "Rp": 144.60763598985653
+        },
+        "execution_time": 0.006056785583496094,
+        "module_type": "ST40",
+        "Is": 7.244905819269313e-06,
+        "Iph": 2.6924607438656665,
+        "run_id": 28
+    },
+    {
+        "best_solution": "[  1.97360542   0.67170064 144.60763599]",
+        "best_fitness": 4.9834821808997246e-11,
+        "convergence_history": [
+            {
+                "iteration": 0,
+                "best_fitness": 1.9090339136298964e-06,
+                "avg_fitness": 0.009827337313256601,
+                "nfes": 50
+            },
+            {
+                "iteration": 1,
+                "best_fitness": 1.9090339136298964e-06,
+                "avg_fitness": 0.003356923634680556,
+                "nfes": 100
+            },
+            {
+                "iteration": 2,
+                "best_fitness": 1.9090339136298964e-06,
+                "avg_fitness": 0.0020297780860197984,
+                "nfes": 150
+            },
+            {
+                "iteration": 3,
+                "best_fitness": 1.9090339136298964e-06,
+                "avg_fitness": 0.0015633269642979857,
+                "nfes": 200
+            },
+            {
+                "iteration": 4,
+                "best_fitness": 3.4719449039499524e-08,
+                "avg_fitness": 0.0005897288248142558,
+                "nfes": 250
+            },
+            {
+                "iteration": 5,
+                "best_fitness": 3.4719449039499524e-08,
+                "avg_fitness": 0.0004312762692048378,
+                "nfes": 300
+            },
+            {
+                "iteration": 6,
+                "best_fitness": 4.9834821808997246e-11,
+                "avg_fitness": 0.00026248810622352565,
+                "nfes": 350
+            }
+        ],
+        "function_evaluations": 350,
+        "parameters": {
+            "a": 1.9736054180447997,
+            "Rs": 0.6717006388588725,
+            "Rp": 144.60763598985653
+        },
+        "execution_time": 0.005752086639404297,
+        "module_type": "ST40",
+        "Is": 7.244905819269313e-06,
+        "Iph": 2.6924607438656665,
+        "run_id": 29
+    },
+    {
+        "best_solution": "[  1.97360542   0.67170064 144.60763599]",
+        "best_fitness": 4.9834821808997246e-11,
+        "convergence_history": [
+            {
+                "iteration": 0,
+                "best_fitness": 1.9090339136298964e-06,
+                "avg_fitness": 0.009827337313256601,
+                "nfes": 50
+            },
+            {
+                "iteration": 1,
+                "best_fitness": 1.9090339136298964e-06,
+                "avg_fitness": 0.003356923634680556,
+                "nfes": 100
+            },
+            {
+                "iteration": 2,
+                "best_fitness": 1.9090339136298964e-06,
+                "avg_fitness": 0.0020297780860197984,
+                "nfes": 150
+            },
+            {
+                "iteration": 3,
+                "best_fitness": 1.9090339136298964e-06,
+                "avg_fitness": 0.0015633269642979857,
+                "nfes": 200
+            },
+            {
+                "iteration": 4,
+                "best_fitness": 3.4719449039499524e-08,
+                "avg_fitness": 0.0005897288248142558,
+                "nfes": 250
+            },
+            {
+                "iteration": 5,
+                "best_fitness": 3.4719449039499524e-08,
+                "avg_fitness": 0.0004312762692048378,
+                "nfes": 300
+            },
+            {
+                "iteration": 6,
+                "best_fitness": 4.9834821808997246e-11,
+                "avg_fitness": 0.00026248810622352565,
+                "nfes": 350
+            }
+        ],
+        "function_evaluations": 350,
+        "parameters": {
+            "a": 1.9736054180447997,
+            "Rs": 0.6717006388588725,
+            "Rp": 144.60763598985653
+        },
+        "execution_time": 0.006085395812988281,
+        "module_type": "ST40",
+        "Is": 7.244905819269313e-06,
+        "Iph": 2.6924607438656665,
+        "run_id": 30
+    }
+]
