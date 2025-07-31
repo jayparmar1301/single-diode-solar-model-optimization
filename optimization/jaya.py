@@ -89,7 +89,7 @@ class JAYAOptimizer(BaseOptimizer):
             })
             
             # Optional: Early stopping if fitness is very small
-            if self.best_fitness < 1e-10:
+            if self.best_fitness < 1e-14:
                 break
         
         return self.best_solution, self.best_fitness

@@ -1,0 +1,23 @@
+{
+    "JAYA": {
+        "best_fitness": 3.328433741194343e-15,
+        "mean_fitness": 3.9774556926949233e-11,
+        "std_fitness": 8.865551423744309e-11,
+        "mean_time": 0.8883583784103394,
+        "success_rate": 100.0
+    },
+    "BMR": {
+        "best_fitness": 1.1980690753247684e-14,
+        "mean_fitness": 5.824463376217137e-11,
+        "std_fitness": 8.311196316497823e-11,
+        "mean_time": 2.1930426518122355,
+        "success_rate": 100.0
+    },
+    "BWR": {
+        "best_fitness": 6.021789365028411e-14,
+        "mean_fitness": 1.4309656912132652e-10,
+        "std_fitness": 4.00487888255874e-10,
+        "mean_time": 2.094523859024048,
+        "success_rate": 100.0
+    }
+}

@@ -1,4 +1,4 @@
-# ☀️Single Diode Solar Module Parameter Optimization using JAYA Algorithm
+# ☀️ Solar Module Parameter Optimization using JAYA Algorithm
 
 > Estimate key parameters of photovoltaic modules (ideality factor, series & parallel resistance) using a simple, parameter‑free JAYA optimizer.
 
