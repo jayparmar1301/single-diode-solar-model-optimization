@@ -120,4 +120,4 @@ Create `optimization/my_opt.py`, subclass `BaseOptimizer`, implement `optimize()
 ---
 
 ## 📝 License
-MIT © Your Name
+MIT
